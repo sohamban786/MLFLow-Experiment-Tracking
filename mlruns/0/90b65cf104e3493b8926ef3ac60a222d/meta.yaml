@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/90b65cf104e3493b8926ef3ac60a222d/artifacts
+end_time: 1740876227237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90b65cf104e3493b8926ef3ac60a222d
+run_name: resilient-flea-262
+run_uuid: 90b65cf104e3493b8926ef3ac60a222d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740876212908
+status: 3
+tags: []
+user_id: shije

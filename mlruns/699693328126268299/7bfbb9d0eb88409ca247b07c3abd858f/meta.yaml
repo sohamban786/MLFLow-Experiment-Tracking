@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/699693328126268299/7bfbb9d0eb88409ca247b07c3abd858f/artifacts
+end_time: 1740889011840
+entry_point_name: ''
+experiment_id: '699693328126268299'
+lifecycle_stage: active
+run_id: 7bfbb9d0eb88409ca247b07c3abd858f
+run_name: omniscient-bear-228
+run_uuid: 7bfbb9d0eb88409ca247b07c3abd858f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740888996345
+status: 3
+tags: []
+user_id: shije

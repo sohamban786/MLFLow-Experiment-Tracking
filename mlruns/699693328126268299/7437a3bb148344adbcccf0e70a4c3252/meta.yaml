@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/699693328126268299/7437a3bb148344adbcccf0e70a4c3252/artifacts
+end_time: 1740888834124
+entry_point_name: ''
+experiment_id: '699693328126268299'
+lifecycle_stage: active
+run_id: 7437a3bb148344adbcccf0e70a4c3252
+run_name: capable-wren-963
+run_uuid: 7437a3bb148344adbcccf0e70a4c3252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740888815775
+status: 3
+tags: []
+user_id: shije
